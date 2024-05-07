@@ -21,5 +21,21 @@
       "query": "question",
       "response": "query"
     }
+  },
+  "classify_dev": {
+  "file_name": "classify/dev.json",
+    "columns": {
+      "prompt": "question_prompt",
+      "query": "question",
+      "response": "query"
+    }
+  },
+  "keyword_dev": {
+  "file_name": "keyword/dev.json",
+    "columns": {
+      "prompt": "question_prompt",
+      "query": "question",
+      "response": "query"
+    }
   }
 }
